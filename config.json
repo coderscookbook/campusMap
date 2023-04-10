@@ -1,0 +1,9 @@
+{
+  "webmap": "f0d599e1991f4285b1291ab49aeacbb3",
+  "nonToggleableLayers": ["Buildings", "Parking Lots"],
+  "buildingsLayerUrl": "https://maps.cpc-fis.vanderbilt.edu/arcgis/rest/services/LGIM/MapServer/7",
+  "parkingLotsLayerUrl": "https://maps.cpc-fis.vanderbilt.edu/arcgis/rest/services/LGIM/MapServer/8",
+  "routeServicePoints": "https://maps.cpc-fis.vanderbilt.edu/arcgis/rest/services/RouteFacilityAccess/MapServer/0",
+  "routePointFields": ["DESCRIPTION"],
+  "routeServiceUrl": "https://maps.cpc-fis.vanderbilt.edu/arcgis/rest/services/Routing/NAServer/Route"
+}

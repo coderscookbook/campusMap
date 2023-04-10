@@ -1,0 +1,7 @@
+# do not track these files/folders in the remote repository
+node_modules
+Notes
+
+index.html
+styles.css
+scripts.js
